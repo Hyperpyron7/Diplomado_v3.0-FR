@@ -1,5 +1,6 @@
-# Diplomado_v3.0
-Diplomado v 3.0
+# Diplomado_v3.0 FR
+
+
 Ceci est la version X.0 du livre Diplomado en Bitcoin enseigné par Mi Primer Bitcoin à El Salvador
 En attente de la V4.0 pour la traduction afin d'avoir les charts, dessins et layout en plus d'avoir la mise à jour du texte.
 
